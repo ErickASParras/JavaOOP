@@ -86,7 +86,4 @@
 ## Erro não resolvido no trabalho
 * Durante o fim de semana final de produção do trabalho percebi que havia criado errado o método `` listAllOrdered() `` e quando organizei-o, implementando o bubblesort o `` toString() `` comecou a me devolver a referencia dos produtos em vez do próprio produto, para contornar isso eu "implementei" o toString() de forma modificada no fim do método.
 
-* Os Métodos relacionados a criar ficheiros externos (pelo menos a parte de salvar a maquina, uma vez que não tive como verificar o método em relacao a carregar) as máquinas da classe VendingMachine estou a dar a excpetion de ``NotSerializableException `` mesmo que o eu implementasse a interface Serializable
-
----
-## Ignorando esses dois erros, o trabalho foi implementado com sucesso, tenha um bom dia professor :)
+* Os Métodos relacionados a criar ficheiros externos (pelo menos a parte de salvar a maquina, uma vez que não tive como verificar o método em relacao a carregar) as máquinas da classe VendingMachine estou a dar a excpetion de ``NotSerializableException `` mesmo que o eu implementasse a interface Serializabl
