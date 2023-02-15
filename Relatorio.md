@@ -80,7 +80,7 @@
 
 ----
 
-### Venda - apenas um exemplo simples da execução da máquina
+### main - apenas um exemplo simples da execução da máquina
 
 -------
 ## Erro não resolvido no trabalho
