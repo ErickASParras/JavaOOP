@@ -75,7 +75,7 @@
 
 `public static VendingMachine restoreMachin(String arquivo)` -> Recebe o nome de um arquivo, ou caminho para o mesmo, onde deve conter um aquivo salvo pelo método saveMachine, recuperando a maquina guardada por meio de ObjectInputStream
 
-`public void Venda(Perishable compra, float pagamento)` -> método criado para solucionar a questão de vendas da maquina, vai ser verificado se os argumentos estão corretos, em seguida e encontrado o produto que esta sendo comprado, calculado o seu preco e retirado um do estoque, soma o valor da compra ao banco e se for necessário e possível devolver troco.
+`public void Venda(Perishable compra, float pagamento)` -> método criado para solucionar a questão de vendas da maquina, vai ser verificado se os argumentos estão corretos, em seguida e encontrado o produto que esta sendo comprado, calculado o seu preço e retirado um do estoque, soma o valor da compra ao banco e se for necessário e possível devolver troco.
 
 
 ----
